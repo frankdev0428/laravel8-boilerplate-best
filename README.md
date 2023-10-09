@@ -1,40 +1,76 @@
-Contribution: 2021-02-01 20:00
+# Laravel 8 Boilerplate Multi Auth, Passport, Datatables, Simple and User Friendly
 
-Contribution: 2021-02-01 20:01
 
-Contribution: 2021-06-21 20:00
+## Features
 
-Contribution: 2021-12-27 20:00
+    1. Laravel 8 Framework
+    2. Laravel-Permission by spatie/laravel-permission
+    3. Laravel Backup by spatie/laravel-backup
+    4. Yajra Datatable by Yajra
+    5. Laravel Debugbar
+    6. Laravel Passport Authentication
+    7. Laravel Ajax CRUD
+    8. Bootstrap 4
+    9. Architect Admin Template
+    10. Multi Auth
+    11. Admin Panel & User Panel
 
-Contribution: 2021-12-27 20:01
+### Requirements
 
-Contribution: 2021-12-28 20:00
+    1. PHP version upto 7.3    
+    2. Laravel version  8  
 
-Contribution: 2021-12-30 20:00
+### Installation
 
-Contribution: 2023-01-31 20:00
+    1. Clone the project using git clone   
+    2. Copy a fresh .env file from laravel github    
+    3. Update .env file by adding database information like DB_HOST.  
+    4. Go to project root folder.Open git bash or terminal and run  composer install       
+    5. Run php artisan key:generate in the terminal    
+    6. import db.sql from db folder
+         
+    
+### Troubleshootings
+    
+    1. Change Db port in config/database.php file or change as yours.
+    2. Try composer composer dump-autoload if need
+    3. php artisan config:cache if need
+    4. php artisan clear-compiled if need    
+    
+### Note*
+    
+    Don't delete or edit already added permissions to avoid error   
+    
+         
+### Login
+         // admin
+         email : superadmin@admin.com
+         pass :  123456
+         
+         // user
+         email:userone@admin.com
+         pass : 123456
 
-Contribution: 2023-01-31 20:01
+         
+## Credit
 
-Contribution: 2023-03-11 20:00
+    1. Laravel 8 Framework
+    2. Laravel-Permission by spatie/laravel-permission
+    3. Laravel Backup by spatie/laravel-backup
+    4. Yajra Datatable by Yajra
+    5. Laravel Debugbar
+    6. Laravel Passport Authentication
+    7. Bootstrap 4
+    8. Architect Admin Template
+        
+Screenshot :    
 
-Contribution: 2023-03-26 20:00
+![alt text](./screenshot/Home.png)   
+![alt text](./screenshot/Dashboard.png)   
+![alt text](./screenshot/Users.png)   
+![alt text](./screenshot/Blogs.png)   
+![alt text](./screenshot/Permissions.png)   
 
-Contribution: 2023-03-26 20:01
 
-Contribution: 2023-04-05 20:00
-
-Contribution: 2023-04-05 20:01
-
-Contribution: 2023-04-16 20:00
-
-Contribution: 2023-04-16 20:01
-
-Contribution: 2023-05-29 20:00
-
-Contribution: 2023-05-29 20:01
-
-Contribution: 2023-06-05 20:00
-
-Contribution: 2023-06-05 20:01
-
+ Find me on  Linkedin  : [My Linkedin profile  link](https://www.linkedin.com/in/monjur-morshed-riyadh-6aaba465/)  \
+ Email me : riyadhahmed777@gmail.com
