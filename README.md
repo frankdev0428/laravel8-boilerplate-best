@@ -70,7 +70,3 @@ Screenshot :
 ![alt text](./screenshot/Users.png)   
 ![alt text](./screenshot/Blogs.png)   
 ![alt text](./screenshot/Permissions.png)   
-
-
- Find me on  Linkedin  : [My Linkedin profile  link](https://www.linkedin.com/in/monjur-morshed-riyadh-6aaba465/)  \
- Email me : riyadhahmed777@gmail.com
